@@ -24,6 +24,7 @@ Notice: More information about this can be found online at: https://www.kali.org
 
 ## Tools
 - https://github.com/h4rithd/PrecompiledBinaries.git
-- 
+- https://github.com/Orange-Cyberdefense/arsenal.git ==> pipx install git+https://github.com/Orange-Cyberdefense/arsenal.git
+- apt -y install seclists [Wordlist]
 
 
