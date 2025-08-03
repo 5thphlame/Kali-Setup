@@ -19,4 +19,11 @@ Notice: More information about this can be found online at: https://www.kali.org
 ### To fix it, run the full command with sudo tee like this:
 "curl -fsSL https://archive.kali.org/archive-key.asc | sudo gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/kali-archive-keyring.gpg > /dev/null"
 
+## Theme
+- https://github.com/romkatv/powerlevel10k.git
+
+## Tools
+- https://github.com/h4rithd/PrecompiledBinaries.git
+- 
+
 
