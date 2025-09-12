@@ -27,5 +27,6 @@ Notice: More information about this can be found online at: https://www.kali.org
 - https://github.com/Orange-Cyberdefense/arsenal.git ==> pipx install git+https://github.com/Orange-Cyberdefense/arsenal.git
 - apt -y install seclists [Wordlist]
 - https://github.com/vladko312/SSTImap
+- https://github.com/ihebski/DefaultCreds-cheat-sheet
 
 
