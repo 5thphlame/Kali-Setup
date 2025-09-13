@@ -21,7 +21,7 @@ Notice: More information about this can be found online at: https://www.kali.org
 
 ## Theme
 - https://github.com/romkatv/powerlevel10k.git
-- https://posintech.com/give-your-linux-desktop-a-clean-look/
+- https://posintech.com/give-your-linux-desktop-a-clean-look/ [https://www.youtube.com/watch?v=afpdn636NE0]
 
 ## Tools
 - https://github.com/h4rithd/PrecompiledBinaries.git
