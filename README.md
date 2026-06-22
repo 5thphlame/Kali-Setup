@@ -30,5 +30,6 @@ Notice: More information about this can be found online at: https://www.kali.org
 - https://github.com/vladko312/SSTImap
 - https://github.com/ihebski/DefaultCreds-cheat-sheet
 - https://github.com/brightio/penelope
+- https://github.com/projectdiscovery
 
 
